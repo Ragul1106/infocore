@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage": "https://ragul1106.github.io/infocore",
+  "homepage": "https://ragul1106.github.io/infocore/",
 
   "scripts": {
     "dev": "vite",
